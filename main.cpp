@@ -31,6 +31,6 @@ int main() {
       misses++;
     }
   }
+  guess = false;
 end_game(answer, codeword);
-guess = false;
 }
